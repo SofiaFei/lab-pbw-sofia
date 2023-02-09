@@ -2,5 +2,6 @@
  
 ## Data Diri
  
-Nama  : Sofia
-NPM   : 2108107010006
+Nama : Sofia
+
+NPM : 2108107010006
